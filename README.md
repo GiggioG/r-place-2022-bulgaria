@@ -6,7 +6,7 @@
 |[Шаблона / The template](https://r-place-2022-bulgaria.herokuapp.com/template.png)|
 |[Цел / Goal](https://r-place-2022-bulgaria.herokuapp.com/colored.png)|
 # Български
-1. Свалете това: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+1. Свалете този extension: [Violetmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) на Firefox [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) на другите браузъри.
 2. Натисни върху extension-а
 3. "Create new script"
 4. Копирайте [този код](#кодът--the-code) във файла. (заменяйки каквото вече има там)
@@ -14,7 +14,7 @@
 6. Накрая refresh reddit
 > Шаблон - [u/Gigo_G](https://reddit.com/u/Gigo_G)
 # English
-1. Download this extension: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+1. Download this extension: [Violetmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) on every other browser.
 2. Click on the extension icon.
 3. "Create new script"
 4. Copy-paste [this code](#кодът--the-code) (replacing whatever was there before)
