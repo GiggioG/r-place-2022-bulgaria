@@ -3,6 +3,8 @@
 |[Български инструкции](#български)|
 |[English guide](#english)|
 |[Кодът / The code](#кодът--the-code)|
+|[Шаблона / The template](https://r-place-2022-bulgaria.herokuapp.com/template.png)|
+|[Цел / Goal](https://r-place-2022-bulgaria.herokuapp.com/colored.png)|
 # Български
 1. Свалете това: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 2. Натисни върху extension-а
